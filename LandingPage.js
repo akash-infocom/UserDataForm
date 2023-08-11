@@ -15,13 +15,13 @@ const LandingPage = ({ navigateToUserForm }) => {
 
 const styles = StyleSheet.create({
   mainContainer:{
-    // backgroundColor: '#ffa500',
+    
   },
   container: {
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    // backgroundColor: '#ffa500',
+    
   },
   title: {
     fontSize: 24,
